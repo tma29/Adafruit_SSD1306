@@ -1,5 +1,5 @@
 
-#define splash1_width 128
+#define splash1_width 82
 #define splash1_height 64
 
 const uint8_t PROGMEM splash1_data[] = {
@@ -45,8 +45,8 @@ B11111111, B11111111, B11111111, B11111111, B11111111, B11111111, B11111111, B11
 
 };
 
-#define splash2_width 128
-#define splash2_height 64
+#define splash2_width 115
+#define splash2_height 32
 
 const uint8_t PROGMEM splash2_data[] = {
   B11111111, B11111111,
